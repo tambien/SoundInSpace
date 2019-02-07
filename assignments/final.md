@@ -1,0 +1,1 @@
+Create a piece for the 40 channel speaker system at Future Space. You piece should be played or performed for a maximum of 8 minutes.
