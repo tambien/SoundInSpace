@@ -2,8 +2,9 @@
 
 * Introductions, Expectations, Goals
 * [Why space?](./modules/why_space.md)
+* [Encoding/Decoding](./modules/endcoding_decoding.md)
 * Digital Audio - Introduction
-* Deep Listening Exercise
+* [Deep Listening Exercise](./activies/rhythm_circle.md)
 * Assignment: [Rubric](./assignments/rubric.md)
 
 ## WEEK 2 (2/21/19)
