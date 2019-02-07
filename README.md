@@ -63,3 +63,7 @@ Laptops will be an essential part of the course and may be used in class during 
 ## STATEMENT ON TITLE IX
 
 Tisch School of the Arts to dedicated to providing its students with a learning environment that is rigorous, respectful, supportive and nurturing so that they can engage in the free exchange of ideas and commit themselves fully to the study of their discipline. To that end Tisch is committed to enforcing University policies prohibiting all forms of sexual misconduct as well as discrimination on the basis of sex and gender.  Detailed information regarding these policies and the resources that are available to students through the Title IX office can be found by using the following link: Title IX at NYU.
+
+## LICENSE
+
+All material in this repo (unless belonging to other copyright holders) is licensed under the [Creative Commons, By Attribution, Non-Commercial, Share-Alike](https://creativecommons.org/licenses/by-nc-sa/4.0/)
