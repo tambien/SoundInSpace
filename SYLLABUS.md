@@ -1,6 +1,6 @@
 ## WEEK 1 (2/7/19)
 
-* Introductions, Expectations, Goals
+* Introductions, Expectations, Goals, Logistics
 * [Why space?](./modules/why_space.md)
 * [Introduction to 3d Sound Perception](./modules/3d_sound_perception.md)
 * [Encoding/Decoding](./modules/endcoding_decoding.md)

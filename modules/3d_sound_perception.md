@@ -1,8 +1,3 @@
----
-layout: default
-title: 3D Sound
----
-
 ## Spatial Perception of Sound
 
 Before we talk about how to spatialize sound in software, let's start with how we perceive sound in space.
