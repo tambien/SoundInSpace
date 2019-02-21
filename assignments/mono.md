@@ -1,3 +1,3 @@
-Your assignment this week is to create a monophonic playback piece. Consider the materials of your speakers. 
+Your assignment this week is to create a monophonic playback piece. Consider the materials of your speakers and the position and placement of them in relation to the material they are playing. 
 
-You _must_ document your piece and submit it by email before the start of class. Some of you will show your documentation in class. 
+You _must_ document your piece and submit it by email before the start of class. 5 of you will show your documentation in class. Consider including in your documentation a score or some kind of graphical representation of the piece. 
