@@ -10,30 +10,30 @@
 
 ## WEEK 2 (2/21/19)
 
-* Acoustics (guest Dave Rife)
+* [Acoustics (guest Dave Rife)](https://docs.google.com/presentation/d/1o4yWg_ywl3SuF9casINW8GdZBOcn3FZ0NXqCUyEs_dc/edit#slide=id.g5057168764_0_16)
 * [Overview of Audio Hardware](./modules/digital_audio/hardware.md)
 * [Digital Audio - Playback](./modules/digital_audio/playback.md)
-* [Scores](./modules/scores.md)
 * Assignment: [Mono](./assignments/mono.md)
 
 ## WEEK 3 (3/7/19)
 
 * Digital Audio - Synthesis
 * Digital Audio - Scheduling
-* Process Music
+* [Scores](./modules/scores.md)
 * Assignment: [Stereo](./assignments/stereo.md)
 
 ## WEEK 4 (3/28/19)
 
 * Digital Audio - Effects
+* Process Music
 * Binaural Audio
-* Music as Commodity
 * Quadraphonic (guest Gabe Liberti)
 * Assignment: [Quad](./assignments/quad.md)
 
 ## WEEK 5 (4/11/19)
 
 * Digital Audio - Routing
+* Music as Commodity
 * ambisonic
 * Assignment: Final
 

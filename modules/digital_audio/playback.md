@@ -8,6 +8,8 @@ Often you won't need to work with these arrays directly.
 
 [Play back the same note repeatedly](https://jsfiddle.net/yotammann/azyqcfg9/)
 
+[reverse through reverse](https://jsfiddle.net/yotammann/q0L74kxy/)
+
 A small snippet of a file (sometimes called a grain) can be played back in many ways
 
-[Play back a small snippet of the audio](https://jsfiddle.net/yotammann/a32xtg7e/)
+[Play back a small snippet of the audio](https://jsfiddle.net/yotammann/9Luzr1f7/)

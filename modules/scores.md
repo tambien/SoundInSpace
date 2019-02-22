@@ -8,18 +8,6 @@ Common abstractions in scores are "notes", "parts", "tempos".
 
 Scores are another way a composer has to elucidate the underlying concepts of their piece. The fields of Musicology and Music Theory rely on this ability to identify, name, and reason about concepts and ideas that are preset in the music.
 
-### Pithoprakta
-
-![Pithoprakta](../assets/images/xenakis-pithoprakta-1955-56.jpg)
-
-> Pithoprakta (1955–56) is a piece by Iannis Xenakis for two trombones, 46 string instruments, xylophone, and woodblock, premièred by conductor Hermann Scherchen in Munich on March 1957.
->
-> The title translates as "actions through probability". In the case of "Pithoprakta," this relates to Jacque Bernoulli's law of large numbers which states that as the number of occurrences of a chance event increases, the more the average outcome approaches a determinate end. The piece is based on the statistical mechanics of gases, Gauss's law, or Brownian motion. Each instrument is conceived as a molecule obeying the Maxwell–Boltzmann distribution law, with Gaussian distribution of temperature fluctuation. [Wikipedia](https://en.wikipedia.org/wiki/Pithoprakta)
-
-Similarly, looking at a composition done in the [Twelve Tone Technique](http://en.wikipedia.org/wiki/Twelve-tone_technique), it's easier to pick out and verify the prime, retrograde, inversion, etc, in the score than it is to hear those things in the realization.
-
-[G. Gould - Five Piano Pieces, Op. 23 (A. Schoenberg)](https://www.youtube.com/watch?v=7A9HSlgDlQE)
-
 But what about music which is composed/produced with a DAW or through software? How can we discover and reason about the composer's concept?
 
 **What is the purpose a score?**
@@ -35,7 +23,7 @@ But what about music which is composed/produced with a DAW or through software? 
 > Braxton describes #108B as “a series of possible curve line sounds or curve line dynamic changes” (311), implying that the lines can indicate pitch and/or volume, and he likens the music first to “a continuum of stresses and ‘whispers’. 
 [What I call a Sound](http://www.criticalimprov.com/article/view/462/992)
 
-{% include youtube.html video="kaF9Kbksi10" %}
+youtube.com kaF9Kbksi10
 
 ### Yoko Ono - Voice Piece for Soprano
 
@@ -61,7 +49,7 @@ The "Orchestra" is the part of your code where you create all your instruments, 
 
 There is a similarity between code and scores. Neither is the sound itself, but a representation of the sound/music, meant to be interpreted to be realized. The way your code is written and organized, elucidates your conception of the work.
 
-# Activity
+# Cardew
 
 ### Scratch Orchestra
 
@@ -79,6 +67,8 @@ The Orchestra reflected Cardew's musical philosophy at that time. This meant tha
 Treatise is a graphic musical score by British composer Cornelius Cardew (1936-1981) comprising 193 pages of lines, symbols, and various geometric or abstract shapes that eschew conventional musical notation. The score neither contains nor is accompanied by any explicit instruction to the performers in how to perform the work. Cardew worked on the composition from 1963 to 1967.
 
 Cardew had previously suggested that performers devise in advance their own rules and methods for interpreting and performing the work.
+
+Sonic Youth has done a realization of this score. 
 
 [Treatise Score](https://monoskop.org/images/e/e2/Cardew_Cornelius_Treatise_1967.pdf)
 
