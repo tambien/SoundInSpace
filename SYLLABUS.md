@@ -19,8 +19,8 @@
 
 * [Scores](./modules/scores.md)
 * [Process Music](./modules/process_music.md)
-* [Digital Audio - Spatialization](./modules/digital_audio/spatialization_routing.md)
 * [Digital Audio - Synthesis](./modules/digital_audio/synthesis.md)
+* [Digital Audio - Spatialization](./modules/digital_audio/spatialization_routing.md)
 * Present Mono Assignment
 * Assignment: [Stereo](./assignments/stereo.md)
 
