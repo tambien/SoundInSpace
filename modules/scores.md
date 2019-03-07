@@ -20,10 +20,7 @@ But what about music which is composed/produced with a DAW or through software? 
 
 ![Braxton 108B](../assets/images/braxton-108b.jpg)
 
-> Braxton describes #108B as “a series of possible curve line sounds or curve line dynamic changes” (311), implying that the lines can indicate pitch and/or volume, and he likens the music first to “a continuum of stresses and ‘whispers’. 
-[What I call a Sound](http://www.criticalimprov.com/article/view/462/992)
-
-youtube.com kaF9Kbksi10
+> Braxton describes #108B as “a series of possible curve line sounds or curve line dynamic changes” (311), implying that the lines can indicate pitch and/or volume, and he likens the music first to “a continuum of stresses and ‘whispers’. [What I call a Sound](http://www.criticalimprov.com/article/view/462/992)
 
 ### Yoko Ono - Voice Piece for Soprano
 

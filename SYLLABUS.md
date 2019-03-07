@@ -17,24 +17,26 @@
 
 ## WEEK 3 (3/7/19)
 
-* Digital Audio - Synthesis
-* Digital Audio - Scheduling
 * [Scores](./modules/scores.md)
+* [Process Music](./modules/process_music.md)
+* [Digital Audio - Spatialization](./modules/digital_audio/spatialization_routing.md)
+* [Digital Audio - Synthesis](./modules/digital_audio/synthesis.md)
+* Present Mono Assignment
 * Assignment: [Stereo](./assignments/stereo.md)
 
 ## WEEK 4 (3/28/19)
 
 * Digital Audio - Effects
-* Process Music
 * Binaural Audio
 * Quadraphonic (guest Gabe Liberti)
+* Present Stereo Assignment
 * Assignment: [Quad](./assignments/quad.md)
 
 ## WEEK 5 (4/11/19)
 
-* Digital Audio - Routing
 * Music as Commodity
 * ambisonic
+* Present Quad Assignment
 * Assignment: Final
 
 ## WEEK 6 (4/25/19)
