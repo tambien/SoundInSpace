@@ -1,4 +1,4 @@
-Process-based music lends itself well to interaction because rules can be coded and then realized through software. Consistent systems are also important for creating understandable listener interaction. 
+Process-based music lends itself well to interaction and programming because rules can be coded and then realized through software. Consistent systems are also important for creating understandable listener interaction. 
 
 Here's a few techniques drawn from 20th century music which can potentially be applied to Interactive Music. 
 

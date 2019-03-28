@@ -26,16 +26,17 @@
 
 ## WEEK 4 (3/28/19)
 
-* Digital Audio - Effects
-* Binaural Audio
 * Quadraphonic (guest Gabe Liberti)
+* [Digital Audio - Multichannel](./modules/digital_audio/multichannel.md)
+* [Digital Audio - Scheduling](./modules/digital_audio/scheduling.md)
 * Present Stereo Assignment
 * Assignment: [Quad](./assignments/quad.md)
 
 ## WEEK 5 (4/11/19)
 
 * Music as Commodity
-* ambisonic
+* Ambisonics
+* Activity: [Debugging]()
 * Present Quad Assignment
 * Assignment: Final
 
