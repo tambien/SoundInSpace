@@ -35,11 +35,7 @@ Tone.Transport.schedule(function(time){
 Tone.Transport.start()
 ```
 
-https://jsfiddle.net/yotammann/swwvywvg/5/
-
-https://jsfiddle.net/yotammann/eprvL0nq/1/
-
-https://jsfiddle.net/yotammann/o3d076mz/1/
+https://editor.p5js.org/yotam/sketches/wlV_DMkyt
 
 ## Loop
 
@@ -60,6 +56,6 @@ Tone.Transport.start()
 
 ## Sequence
 
-https://jsfiddle.net/tseqv132/
+https://editor.p5js.org/yotam/sketches/VIKFRIygE
 
-https://jsfiddle.net/tseqv132/2/
+https://editor.p5js.org/yotam/sketches/xyxyyGYBg

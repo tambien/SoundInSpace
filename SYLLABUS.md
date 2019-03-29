@@ -34,8 +34,8 @@
 
 ## WEEK 5 (4/11/19)
 
-* Music as Commodity
 * Ambisonics
+* Commodity
 * Activity: [Debugging]()
 * Present Quad Assignment
 * Assignment: Final
