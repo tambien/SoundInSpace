@@ -34,9 +34,8 @@
 
 ## WEEK 5 (4/11/19)
 
-* Ambisonics
-* Commodity
-* Activity: [Debugging]()
+* [Ambisonics](./modules/digital_audio/ambisonic.md)
+* [Multichannel Setup](./modules/digital_audio/multichannel.md)
 * Present Quad Assignment
 * Assignment: Final
 
