@@ -1,5 +1,3 @@
-First there were two specs. Web Audio API (pushed by Google) won out over Audio Data API (originally pushed by Mozilla) because it included natively built components instead of just signal processing in javascript (which at the time especially, JS was not fast enough). 
-
 The [Web Audio API](https://webaudio.github.io/web-audio-api/) is a specification, and, like other web specifications, has to be agreed upon by all participants. The process is open and managed by the W3C. 
 
 These participants are a collection of browser makers, audio industry professionals and enthusiasts. If you have an issue or feature you'd like to see included in the specification, you can add a [github issue](https://github.com/WebAudio/web-audio-api).
@@ -43,12 +41,11 @@ oscillator.frequency.setValueAtTime(220, 0.3)
 oscillator.frequency.linearRampToValue(440, 1.3)
 ```
 
-https://jsfiddle.net/yotammann/zo64eyf3/10/
+https://editor.p5js.org/yotam/sketches/tNrPPutt1
 
 ### Scheduling
 
 Nearly everything in the Web Audio API can be precisely (sample-accurately) scheduled according to the AudioContext time. This is vital for creating sound and music. 
-
 
 ### [Tone.Convolver](http://tonejs.github.io/docs/#Convolver)
 
@@ -56,21 +53,4 @@ Convolution is a powerful tool for mimicking realistic spaces. Reverb plays a la
 
 [Impulse Responses](https://github.com/GoogleChrome/web-audio-samples/tree/gh-pages/samples/audio/impulse-responses)
 
-https://jsfiddle.net/yotammann/scy6hdzu/
-
-## 3D Sound in Tone.js
-
-### [Tone.Panner3D](http://tonejs.github.io/docs/#Panner3D)
-
-All audio you pass through this node will be spatialized. Does not necessarily need to be connected directly to the master output, but can be run through additional effects. 
-
-### [Tone.Listener](http://tonejs.github.io/docs/#Listener)
-
-There is only one listener. It models the listeners head and allows you to interact with the positioned audio. 
-
-https://jsfiddle.net/yotammann/sdL3rkcp/
-
-
-## Tone.Multichannel
-
-very WIP
+https://editor.p5js.org/yotam/sketches/FgqmD43Sy

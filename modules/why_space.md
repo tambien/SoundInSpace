@@ -1,3 +1,7 @@
+# Hearing Space
+
+How do we hear space and experience space through music? 
+
 ## [Karlheinz Stockhausen - Kontakte](https://www.youtube.com/watch?v=cjKVJ2z66fk)
 
 > Kontakte is composed in four channels, with loudspeakers placed at the corners of a square surrounding the audience. With the aid of a "rotation table", consisting of a rotatable loudspeaker surrounded by four microphones, he was able to send sounds through and around the auditorium with unprecedented variety (Maconie 2005, 208–209).

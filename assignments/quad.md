@@ -1,3 +1,3 @@
-Your assignment this week is to create a 4-8 channel piece. For this assignment the speakers will assumed to either be in a ring facing inward, or in a ring facing outward from the center. Considering how a listener interacts with the physical space of the piece by walking around the center or periphery of the speakers. 
+Your assignment this week is to create a 4 channel piece. For this assignment the speakers will assumed to either be in a ring facing inward, or in a ring facing outward from the center. Considering how a listener interacts with the physical space of the piece by walking around the center or periphery of the speakers. 
 
 You _must_ document your piece and submit it by email before the start of class. Some of you will show your documentation in class. 
