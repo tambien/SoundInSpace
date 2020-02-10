@@ -32,7 +32,7 @@ Distilled even further, the score is just a set of instructions. They could be w
 
 Unlike most scores which are the source code to the music, Rainer Wehinger ["Hörpartitur"](https://en.wikipedia.org/wiki/Graphic_notation) or "score for listening" to Ligeti's Artikulation was created _after_ the music was published.
 
-[Articikulation](https://www.youtube.com/watch?v=71hNl_skTZQ)
+[Artikulation](https://www.youtube.com/watch?v=71hNl_skTZQ)
 
 ## Code as score
 

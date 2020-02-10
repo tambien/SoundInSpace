@@ -1,30 +1,38 @@
-## Spatial Perception of Sound
+# Spatial Perception of Sound
 
 Before we talk about how to spatialize sound in software, let's start with how we perceive sound in space.
 
 The way we perceive the position of sound in space is mostly related to our physiology: your pinna, the size of your head, the density of your body, your height, etc. You have learned over your lifetime exactly how sound passes through you and now you can accurately understand sound in space. 
 
-## Encoding/Decoding
+## [SPATIAL LISTENING AND ITS COMPUTER SIMULATION ON ELECTRONIC MUSIC](../assets/spatial-listening.pdf)
 
-The basics of spatialized sound representation comes down to an encoding/decoding problem. If you wanted to record and then recreate two sound sources left and right, then i could record two channels and then when i reproduce the sound, just place two speakers at the same place that i recorded them. I could do this for as many sources and speakers as i wanted. 
+All text quoted from the Oscar Pablo Di Liscia
 
-[40 part motet](https://www.youtube.com/watch?v=ncWFLzVrwU4)
+When we are interested on the spatial quality of sound, our Auditory System inspects an incoming acoustic signal trying to answer two main questions:
 
-But as some point this becomes impractical, so we need another representation. 
+1) Where am I? (information related to the room or environment)
+2) Where is it? (information related to the location and / or movement of a sound source)
 
-### Object-based
+To do this, our Auditory System uses _cues_. this information is combined with other kind of information coming from our other senses (mainly our view), and with our knowledge of the behavior of the sound source. That is, our perception of space is holistic .
 
-Object-based representation is a when you a sound source combined with it's position/rotation data. This is how game engines represent audio sources. Other attributes include cone size, rolloff factor etc. All of these are tweakable in game engines and not in any other recording method. 
+![the three planes of hearing](../assets/images/planes-of-hearing.png)
 
-### Ambisonics
+### Horizontal Plane
 
-Ambisonics is the ability to capture a recording including all of the space. This is an encoding. 
+ITD (Interaural Time Difference): The difference in arrival time of the signal at our different ears due to the location of the sound source at an horizontal angle other than 90 degrees and 270 degrees. Seems to be effective at frequencies below 900 Hz.
 
-#### Recording Ambisonic Audio
+ILD (Interaural Level Difference): The difference in level of the signal at our different ears. Seems to be effective at frequencies above 500 Hz. Lower frequencies have a wavelength larger than our head, thus diffracting it.
 
-Ambisonic recording can be done with an b-format microphone which is composed of 3 or more capsules in an XYZ arrangement. 
+We meet our best angle of discrimination on the horizontal plane, of course, when we face the sound source. We loose accuracy as this angle goes to both sides of our head
 
-#### Binaural recording
+### Median Plane
 
-Binaural recording captures the sound _as it was heard through ears_. It does not allow you to move through the space or rotate your head, because the entire spatiality is baked into the recording. 
+When the source is located on this plane, the cues rendered by the ITD and ILD are the same for both ears, so it seems that the complex effect of filtering due to the convolution of the signal with the shape of our upper torso, neck, head, and external ears is most responsible for rendering data for location. 
 
+### Distance
+
+Global loudness of the sound: despite of its apparent simplicity the loudness of sound is a weak cue to judge the distance between source and listener. Physically speaking, it is well known that the acoustic energy drops proportionally to the square of distance.
+
+Ratio between reverberated and dry signal. In closed rooms, the energy of dense reverberation will remain more or less constant (in average amplitude, and for a source delivering the same energy) while –if the distance changes- the energy of the direct (dry) signal will drop with distance. 
+
+Absorption of high frequencies due to gasses in the air. This effect is similar to a lowpass filter, and is considered relevant only for distances larger than 50 meters.

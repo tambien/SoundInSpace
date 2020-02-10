@@ -6,7 +6,7 @@
 * [Encoding/Decoding](./modules/encoding_decoding.md)
 * [Intro to Tools/Tone.js](./modules/intro_to_tone.md)
 * [Digital Audio - Playback](./modules/digital_audio/playback.md)
-* Intro to Future Space
+* [Intro to Future Space](https://docs.google.com/presentation/d/11qJVtJ4fVxGIO6khNQCaPZeDPrM8TWvSakNJOPg_cyg/edit#slide=id.g76a701259f_0_32)
 * [Deep Listening Exercise](./activities/rhythm_circle.md)
 * Assignment: [Mono](./assignments/mono.md)
 

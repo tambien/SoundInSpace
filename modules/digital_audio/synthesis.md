@@ -14,7 +14,7 @@ Amplitude alternates at a steady frequency between fixed minimum and maximum val
 
 The triangle wave contains only odd harmonics, due to its odd symmetry. However, the higher harmonics roll off much faster than in a square wave. 
 
-![approximation of a triangel wave with sine waves](https://upload.wikimedia.org/wikipedia/commons/b/bb/Synthesis_triangle.gif)
+![approximation of a triangle wave with sine waves](https://upload.wikimedia.org/wikipedia/commons/b/bb/Synthesis_triangle.gif)
 
 #### Sawtooth
 
