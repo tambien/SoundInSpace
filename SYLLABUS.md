@@ -23,7 +23,7 @@
 
 * Quadraphonic Mixing (Gabe Liberti)
 * [Overview of Audio Hardware](./modules/digital_audio/hardware.md)
-* [Digital Audio - Spatialization](./modules/digital_audio/spatialization_routing.md)
+* [Digital Audio - Connections](./modules/digital_audio/multichannel_connections.md)
 * [Process Music](./modules/process_music.md)
 * Present Stereo Assignment
 * Assignment: [Quad](./assignments/quad.md)
