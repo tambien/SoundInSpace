@@ -1,6 +1,6 @@
 Create a piece of music. Consider the affects of space and sound localization in your assignments. 
 
-Your piece (or your presentation) should be no more than 5 minutes long. 
+Your presentation should be no more than 5 minutes long. 
 
 ## Optional Constraint
 
