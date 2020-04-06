@@ -30,15 +30,17 @@
 
 ## WEEK 4 (3/23/20)
 
-* [Digital Audio - Multichannel](./modules/digital_audio/multichannel.md)
-* [Digital Audio - Scheduling](./modules/digital_audio/scheduling.md)
-* [Ambisonics](./modules/digital_audio/ambisonic.md)
+* [Binaural in Tone.js](./js/binaural.js)
+* [Binaural in Ableton](./assets/SoundInSpace_envelop_binaural.zip)
+* [Binaural in Max/MSP](https://www.youtube.com/watch?v=x89b8CYG8d8)
 * Present Quad Assignment
 * Assignment: [Ambisonic](./assignments/ambisonic.md)
 
 ## WEEK 5 (4/6/20)
 
-* [Multichannel Setup](./modules/digital_audio/multichannel.md)
+* [Ambisonics](./modules/digital_audio/ambisonic.md)
+* [SPAT and Panning](https://docs.google.com/presentation/d/1iIRnTA25YX8KI6nyGjT8e5XMv6kjXIC_bFFU8bgHf3I/edit#slide=id.g72e2f63175_0_9)
+* [Ambisonics with Envelop]()
 * Present Ambisonic Assignment
 * Assignment: [Rubric](./assignments/rubric.md)
 * Assignment: Final
