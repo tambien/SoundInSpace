@@ -1,5 +1,14 @@
-Create a piece for the 40 channel speaker system at Future Space. You piece should be played or performed for a maximum of 5 minutes. Please fill out [this form](https://forms.gle/2fi1p7MDZd9sfubU8) with some details about your piece. 
+Create a piece of music. Consider the affects of space and sound localization in your assignments. 
 
-Your piece should use between 1-40 channels. You are not required to use all the speakers. A thoughtful musical performance is much better than a tech demo of 40 speakers. 
+Your piece (or your presentation) should be no more than 5 minutes long. 
 
-Be conservative with your ambitions, it'll give you much better chances of it working and working well when you get into the studio. Make sure you have an easily accessible volume knob and kill switch.
+## Optional Constraint
+
+Create your piece entirely with these samples:
+*  [Berklee's One Laptop Per Child Project](https://drive.google.com/file/d/1kTp37pkBnbcBwqvE8KsVNFF1F6cDM9me/view?usp=sharing) 
+	* Creative Commons 
+* [Ambisonic Recordings]()
+
+## Optional Score
+
+Represent your music graphically as a score. Create your own notation if you choose. This is especially useful to organize your thoughts for composition, but also for documenting your piece and potentially reproducing your piece. This is also useful if your piece can't be rendered binaurally. 
