@@ -42,6 +42,7 @@
 * [Intro to Ambisonics](./modules/digital_audio/ambisonic.md)
 * [SPAT and Panning](https://docs.google.com/presentation/d/1iIRnTA25YX8KI6nyGjT8e5XMv6kjXIC_bFFU8bgHf3I/edit#slide=id.g72e2f63175_0_9)
 * [Ambisonics with Envelop]()
+* [SPAT](https://drive.google.com/drive/u/0/folders/1ewZ6_i130hwH0p4xbJuovXIZZxk0OYKe)
 * Present Ambisonic Assignment
 * Assignment: [Final](./assignments/final.md)
 
